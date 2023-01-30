@@ -41,11 +41,11 @@
       "description": "Pyrogram string Seccion - https://replit.com/@JijinR/PyroSessionString?v=1",
       "value": ""
     }
-  },
-  "formation": {
-    "worker": {
-      "quantity": 1,
-      "size": "free"
-    }
   }
-}
+
+
+
+
+    
+  
+
